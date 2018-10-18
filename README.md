@@ -1,4 +1,4 @@
-This is a readme for HPC-Clusters.
+HPC Clusters at the University of California, Davis 
 
 | Name  | Nodes | Node Type|  Ram | Cores/ Threads | GPUs/ node | Owner | Available to | Contact | 
 | ------|------ | ----     | -----| ------------- | -----| ------ | -----| ----|
