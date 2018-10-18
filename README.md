@@ -12,4 +12,5 @@ HPC Clusters at the University of California, Davis
 | HPC1   | 14 | GPU      | 64GB | 16/32 | 2 | Engineering | All Engineering contributors | help@cse.ucdavis.edu | 
 | Cardio | 24 | CPU      | 32GB | 4/8 | 2 | Dr. Bers lab/ Pharmacology | Lab | help@cse.ucdavis.edu | 
 | Gauss | 14 | CPU      | 64GB | 32/32 | 0 |Statistics |Any Statistics Affiliate | help@cse.ucdavis.edu | 
-
+| Crick | 20 | CPU      | 64GB | 12/24 | 0 |Molecular& Cellular Biology, Microbiology and Molecular Genetics, Neuroscience| help@cse.ucdavis.edu|
+| Crick | 2 | Bigmem      | 512GB | 64/64 | 0 |Molecular& Cellular Biology, Microbiology and Molecular Genetics, Neuroscience| help@cse.ucdavis.edu|
