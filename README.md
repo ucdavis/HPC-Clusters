@@ -14,3 +14,8 @@ HPC Clusters at the University of California, Davis
 | Gauss | 14 | CPU      | 64GB | 32/32 | 0 |Statistics |Any Statistics Affiliate | help@cse.ucdavis.edu | 
 | Crick | 20 | CPU      | 64GB | 12/24 | 0 |Molecular& Cellular Biology, Microbiology and Molecular Genetics, Neuroscience|Affliates| help@cse.ucdavis.edu|
 | Crick | 2 | Bigmem      | 512GB | 64/64 | 0 |Molecular& Cellular Biology, Microbiology and Molecular Genetics, Neuroscience|Affiliates| help@cse.ucdavis.edu|
+| Ymir | 27 | CPU | 24GB | 8/16 | 0 | Billen Lab | Lab | help@cse.ucdavis.edu |
+| demon | 25 | CPU | 64GB | 16/32 | 0 | Crutchfield Lab | lab | help@cse.ucdavis.edu | 
+| demon | 14 | Serial | 96GB | 12/24 | 0 | Crutchfield lab | lab | help@cse.ucdavis.edu | 
+| demon | 2 | bigmem | 512GB | 64/64 | 0 | Crutchfield lab | lab | help@cse.ucdavis.edu | 
+
