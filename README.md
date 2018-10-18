@@ -11,5 +11,5 @@ HPC Clusters at the University of California, Davis
 | HPC1   | 64 | Parallel | 64GB | 16/32 | 0 | Engineering | All Engineering contributors | help@cse.ucdavis.edu | 
 | HPC1   | 14 | GPU      | 64GB | 16/32 | 2 | Engineering | All Engineering contributors | help@cse.ucdavis.edu | 
 | Cardio | 24 | CPU      | 32GB | 4/8 | 2 | Dr. Bers lab/ Pharmacology | Lab | help@cse.ucdavis.edu | 
-
+| Gauss | 14 | CPU      | 64GB | 32/32 | 0 |Statistics |Any Statistics Affiliate | help@cse.ucdavis.edu | 
 
