@@ -1,7 +1,7 @@
 This is a readme for HPC-Clusters.
 
 | Name  | Nodes | Node Type|  Ram | Cores/ Threads | GPUs/ node | Owner | Available to | Contact | 
-| ------|------ | ----     | -----| ------------- | -----| ------ | -----| 
+| ------|------ | ----     | -----| ------------- | -----| ------ | -----| ----|
 | Farm  | 102 | Parallel | 64GB |     12/24 | 0 | CA&ES|   All CA&ES affiliates | help@cse.ucdavis.edu| 
 | Farm  | 10  | Bigmem   | 512GB | 64 to 96 | 0 | CA&ES | All CA&ES Contributors |help@cse.ucdavis.edu| 
 | Farm  | 4   | Bigmem2  | 1024GB | 48/96   | 0 | CA&ES | All CA&ES Contributors |help@cse.ucdavis.edu| 
