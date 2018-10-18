@@ -10,6 +10,6 @@ This is a readme for HPC-Clusters.
 | Peloton| 32 | Parallel2 | 256GB | 32/64 | 0 |  L&S| All L&S contributors |help@cse.ucdavis.edu| 
 | HPC1   | 64 | Parallel | 64GB | 16/32 | 0 | Engineering | All Engineering contributors | help@cse.ucdavis.edu | 
 | HPC1   | 14 | GPU      | 64GB | 16/32 | 2 | Engineering | All Engineering contributors | help@cse.ucdavis.edu | 
-| Cardio | 24 | CPU      | 32GB | 4/8 | 2 | Dr. Bers lab/ Pharmacology | help@cse.ucdavis.edu | 
+| Cardio | 24 | CPU      | 32GB | 4/8 | 2 | Dr. Bers lab/ Pharmacology | Lab | help@cse.ucdavis.edu | 
 
 
