@@ -16,7 +16,7 @@ HPC Clusters at the University of California, Davis
 | Farm  | 4   | Bigmem2  | 1024GB | 48/96   | - | CA&ES | All CA&ES Contributors |help@cse.ucdavis.edu| 
 | Gauss | 14 | CPU      | 64GB | 32/32 | - |Statistics |Any Statistics Affiliate | help@cse.ucdavis.edu | 
 | HPC1   | 64 | Parallel | 64GB | 16/32 | - | Engineering |Affiliates via "Try and Buy" | help@cse.ucdavis.edu | 
-| HPC1   | 14 | GPU      | 64GB | 16/32 | 2 | Engineering |Affiliates via "Try and Buy" | help@cse.ucdavis.edu| help@cse.ucdavis.edu |
+| HPC1   | 14 | GPU      | 64GB | 16/32 | 2 | Engineering |Affiliates via "Try and Buy" | help@cse.ucdavis.edu| 
 | Peloton| 60 | Parallel | 64GB | 16/32 | - | L&S | All L&S affiliated | help@cse.ucdavis.edu| 
 | Peloton| 12 | GPU      | 128G | 16/32 | 8 | L&S | All L&S contributors | help@cse.ucdavis.edu| 
 | Peloton| 32 | Parallel2 | 256GB | 32/64 | - |  L&S| All L&S contributors |help@cse.ucdavis.edu| 
