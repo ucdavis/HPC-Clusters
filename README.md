@@ -5,7 +5,7 @@ HPC Clusters at the University of California, Davis
 | Atom | 4 | CPU | 64GB | 12/24 | - | Pharmacology | lab | help@cse.ucdavis.edu |
 | Atom | 1 | Bigmem |512GB | 64/64 | - | Pharmacology | lab | help@cse.ucdavis.edu |
 | Atom | 6 | GPU | 64GB | 12/24 | 2 | Pharmacology | lab | help@cse.ucdavis.edu |
-| Cardio | 24 | CPU      | 32GB | 4/8 | 2 | Dr. Bers lab/ Pharmacology | Lab | help@cse.ucdavis.edu |
+| Cardio | 24 | CPU      | 32GB | 4/8 | - | Dr. Bers lab/ Pharmacology | Lab | help@cse.ucdavis.edu |
 | Crick | 20 | CPU      | 64GB | 12/24 | -|Molecular& Cellular Biology, Microbiology and Molecular Genetics, Neuroscience|Affliates| help@cse.ucdavis.edu|
 | Crick | 2 | Bigmem      | 512GB | 64/64 | - |Molecular& Cellular Biology, Microbiology and Molecular Genetics, Neuroscience|Affiliates| help@cse.ucdavis.edu|
 | demon | 25 | CPU | 64GB | 16/32 | - | Crutchfield Lab | lab | help@cse.ucdavis.edu | 
