@@ -33,10 +33,10 @@ Farm is an evolving cluster that changes and grows to meet the current needs of 
 with Farm III as the most recent evolution. 
 
 Farm III consists of 24 parallel nodes with 64 CPUs and 256GB RAM each, plus 13 "bigmem" nodes with 96 CPUs and
-1TB RAM each. 
+1TB RAM each. All Farm III bigmem and newer parallel nodes and storage are on EDR/100Gbit interconnects. Older parallel nodes and storage are on FDR/55Gbit.
 
 Farm II consists of 95 parallel nodes with 32 CPUs and 65GB RAM each, plus 9 "bigmem" nodes with 64 CPUs and 512GB RAM each,
-and 1 additional node with 96 CPUs and 1TB RAM. 
+and 1 additional node with 96 CPUs and 1TB RAM. Farm II nodes are on QDR/32Gbit interconnects.
 
 Hardware from both Farm II and Farm III are still in service; Farm I has been decommissioned as of 2014.
 
