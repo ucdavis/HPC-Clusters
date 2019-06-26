@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System on High-Performance Computing @ UCDavis</title>
+    <link>http://www.hpc.ucdavis.edu/categories/system/</link>
+    <description>Recent content in System on High-Performance Computing @ UCDavis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2019 15:20:30 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.hpc.ucdavis.edu/categories/system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About the Farm Cluster</title>
+      <link>http://www.hpc.ucdavis.edu/posts/about_farm/</link>
+      <pubDate>Tue, 25 Jun 2019 15:20:30 -0700</pubDate>
+      
+      <guid>http://www.hpc.ucdavis.edu/posts/about_farm/</guid>
+      <description>&lt;p&gt;Farm is a Linux-based supercomputing cluster for the College of Agricultural and Environmental Sciences at UC Davis. Designed for
+both research and teaching, it is a significant campus resource primarily for CPU and RAM-based computing, with a wide selection
+of centrally-managed software available for research in genetics, proteomics, and related bioinformatics pipelines, weather
+and environmental modeling, fluid and particle simulations, geographic information system(GIS) software, and more.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

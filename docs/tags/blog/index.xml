@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on High-Performance Computing @ UCDavis</title>
+    <link>http://www.hpc.ucdavis.edu/tags/blog/</link>
+    <description>Recent content in blog on High-Performance Computing @ UCDavis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2019 15:35:11 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.hpc.ucdavis.edu/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Farm Usage Stats</title>
+      <link>http://www.hpc.ucdavis.edu/posts/farm-usage-stats/</link>
+      <pubDate>Wed, 22 May 2019 15:35:11 -0700</pubDate>
+      
+      <guid>http://www.hpc.ucdavis.edu/posts/farm-usage-stats/</guid>
+      <description>&lt;p&gt;I recently ran some usage statistics on Farm, our biggest cluster, to get an idea of how
+it is being used.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HPC Department Comparisons</title>
+      <link>http://www.hpc.ucdavis.edu/posts/hpc-schools/</link>
+      <pubDate>Wed, 01 May 2019 12:26:25 -0700</pubDate>
+      
+      <guid>http://www.hpc.ucdavis.edu/posts/hpc-schools/</guid>
+      <description>&lt;p&gt;We were curious about what other HPC departments looked like at universities across the USA in terms of staffing versus
+the amount of hardware managed, so I gathered some information from publicly-available university websites. Here&amp;rsquo;s a chart comparing
+them.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
