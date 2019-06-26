@@ -26,14 +26,14 @@ more information about each cluster.
 
 | Name      | Owner        | CPUs    | Interconnect | Purpose |
 |:----------|--------------|:-------:|:------------:|---------|
-| Atomate   | Pharmacology | 512   | FDR/54gbit     |         |
+| Atomate   | Pharmacology | 512   | FDR/54Gbit     |         |
 | Cardio    | UCDMC        | 232   | 10Gbit head node/1 Gbit compute nodes   |
-| Crick     | Microbiology |  512  | FDR/54gbit     |         |
+| Crick     | Microbiology |  512  | FDR/54Gbit     |         |
 | Demon     | Physics      | 512   |                |         |
-| [Farm](/posts/about_farm) | CA&ES |2744+704 on bigmem nodes| IB QDR 32Gbit | Research + Teaching ([CA&ES](https://caes.ucdavis.edu))|
+| [Farm](/posts/about_farm) | CA&ES |2744+704 on bigmem nodes| QDR/32Gbit, FDR/54Gbit, EDR/100Gbit | Research + Teaching ([CA&ES](https://caes.ucdavis.edu))|
 | Gauss     | Statistics   | 512   | 10Gbit head node, 1Gbit compute nodes  |             |
 | Hpc1      | Engineering  | 2400  | QDR/32Gbit     | HPC     |
-| Impact    | Stewart      | 216   | FDR/54gbit     |         | 
+| Impact    | Stewart      | 216   | FDR/54Gbit     |         | 
 | Keckcaves | Kellogg      | 32    | 1Gbit          | Visualization ([KeckCAVES](https://keckcaves.org))  |
 | Peloton   | MPS          | 2048  | FDR/54Gbit     | HPC     |
 | Ymir      | Billen       | 384   | 1Gbit          | Compute ([Geodynamics](http://www.geodynamics.org))  |
