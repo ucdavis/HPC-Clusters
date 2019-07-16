@@ -67,6 +67,6 @@ As of 2019, the rates for Farm III:
 * GPU node: dual-socket Xeon 4114, Nvidia Tesla V100 - $17,500
 * Storage: 10TB for 5 years (does not include backups) - $1,000
 
-For more information about buying into Farm, contact [Adam Getchell](mailto://acgetchell@ucdavis.edu) or the [Helpdesk](mailto://help@cse.ucdavis.edu).
+For more information about buying into Farm, contact [Adam Getchell](mailto:acgetchell@ucdavis.edu) or the [Helpdesk](mailto:help@cse.ucdavis.edu).
 
 
