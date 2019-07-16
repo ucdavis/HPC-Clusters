@@ -6,22 +6,22 @@
     <description>Recent content in Categories on High-Performance Computing @ UCDavis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2019 15:35:11 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 15:20:30 -0700</lastBuildDate>
     
 	<atom:link href="http://www.hpc.ucdavis.edu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>http://www.hpc.ucdavis.edu/categories/blog/</link>
-      <pubDate>Wed, 22 May 2019 15:35:11 -0700</pubDate>
+      <title>System</title>
+      <link>http://www.hpc.ucdavis.edu/categories/system/</link>
+      <pubDate>Tue, 25 Jun 2019 15:20:30 -0700</pubDate>
       
-      <guid>http://www.hpc.ucdavis.edu/categories/blog/</guid>
+      <guid>http://www.hpc.ucdavis.edu/categories/system/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Information</title>
+      <title>information</title>
       <link>http://www.hpc.ucdavis.edu/categories/information/</link>
       <pubDate>Tue, 25 Jun 2019 15:20:30 -0700</pubDate>
       
@@ -30,11 +30,11 @@
     </item>
     
     <item>
-      <title>System</title>
-      <link>http://www.hpc.ucdavis.edu/categories/system/</link>
-      <pubDate>Tue, 25 Jun 2019 15:20:30 -0700</pubDate>
+      <title>blog</title>
+      <link>http://www.hpc.ucdavis.edu/categories/blog/</link>
+      <pubDate>Wed, 22 May 2019 15:35:11 -0700</pubDate>
       
-      <guid>http://www.hpc.ucdavis.edu/categories/system/</guid>
+      <guid>http://www.hpc.ucdavis.edu/categories/blog/</guid>
       <description></description>
     </item>
     

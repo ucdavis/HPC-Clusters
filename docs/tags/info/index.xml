@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Info on High-Performance Computing @ UCDavis</title>
+    <title>info on High-Performance Computing @ UCDavis</title>
     <link>http://www.hpc.ucdavis.edu/tags/info/</link>
-    <description>Recent content in Info on High-Performance Computing @ UCDavis</description>
+    <description>Recent content in info on High-Performance Computing @ UCDavis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jun 2019 15:20:30 -0700</lastBuildDate>
@@ -20,9 +20,7 @@
       <description>&lt;p&gt;Farm is a Linux-based supercomputing cluster for the College of Agricultural and Environmental Sciences at UC Davis. Designed for
 both research and teaching, it is a significant campus resource primarily for CPU and RAM-based computing, with a wide selection
 of centrally-managed software available for research in genetics, proteomics, and related bioinformatics pipelines, weather
-and environmental modeling, fluid and particle simulations, geographic information system(GIS) software, and more.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+and environmental modeling, fluid and particle simulations, geographic information system(GIS) software, and more.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,9 +31,7 @@ and environmental modeling, fluid and particle simulations, geographic informati
       <guid>http://www.hpc.ucdavis.edu/posts/hpc-schools/</guid>
       <description>&lt;p&gt;We were curious about what other HPC departments looked like at universities across the USA in terms of staffing versus
 the amount of hardware managed, so I gathered some information from publicly-available university websites. Here&amp;rsquo;s a chart comparing
-them.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+them.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,9 +40,7 @@ them.&lt;/p&gt;
       <pubDate>Wed, 03 Apr 2019 16:20:00 -0700</pubDate>
       
       <guid>http://www.hpc.ucdavis.edu/posts/helpandsupport/</guid>
-      <description>&lt;p&gt;There are two main support options for cluster users: the wiki and the helpdesk.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;There are two main support options for cluster users: the wiki and the helpdesk.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -57,9 +51,7 @@ them.&lt;/p&gt;
       <guid>http://www.hpc.ucdavis.edu/posts/about/</guid>
       <description>&lt;p&gt;The HPC @ UCDavis team is a core group of staff who specialize in high-performance computing (HPC)
 systems. We are responsible for supercomputing clusters and related resources
-for multiple colleges, departments, and laboratories across the university.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+for multiple colleges, departments, and laboratories across the university.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -71,8 +63,7 @@ for multiple colleges, departments, and laboratories across the university.&lt;/
       <description>&lt;p&gt;HPC @ UCDavis manages multiple clusters for clients across the entire UC Davis campus.
 Here is a chart of some of the clusters we manage. Note that not all clusters
 are for general use; many are restricted. Visit our &lt;a href=&#34;http://wiki.cse.ucdavis.edu&#34;&gt;Wiki&lt;/a&gt; for
-more information about each cluster.
-&lt;/p&gt;</description>
+more information about each cluster.&lt;/p&gt;</description>
     </item>
     
   </channel>
