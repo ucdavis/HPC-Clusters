@@ -50,15 +50,14 @@ them.
 | [University of Southern California](https://hpcc.usc.edu/)                   |**6+**    |**2**   |**2700** |**14096** |**760**        |
 | [Columbia University](https://systemsbiology.columbia.edu/high-performance-computing)                              |**6**     |**1**   |**?**    |**6336**  |**73728 cores**|
 | [Georgetown University](https://uis.georgetown.edu/research/high-performance-computing)                            |**?**     |**1**   |**45**   |**800**   |**0**          | 
-| [Bioinformatics Core @ UC Davis](https://bioinformatics.ucdavis.edu/)        |**9**     |**?**   |**?**    |**9800**|**65100 cores**|
+| [Bioinformatics Core @ UC Davis](https://bioinformatics.ucdavis.edu/)**      |**9**     |**1**?   |**102**?  |**9800**|**65100 cores**|
 | [HPC @ UC Davis](http://www.hpc.ucdavis.edu)                                 |**3**     |**10+**  |**520**  |**18176** |**165**        |
 
 
 
 **Note:**
  
-* This table is intended only as a broad overview of the HPC landscape at various universities. I tried to be as accurate as I could based on what was available online at the sources linked, but my data is only as correct and up-to-date as the websites linked.
-
+* This table is intended only as a broad overview of the HPC landscape at various universities. I tried to be as accurate as I could based on what was available online at the sources linked, but my data is only as correct and up-to-date as the websites linked. 
 
 **Definitions:**
 
