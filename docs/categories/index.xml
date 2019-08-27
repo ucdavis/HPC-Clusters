@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>System</title>
-      <link>http://www.hpc.ucdavis.edu/categories/system/</link>
-      <pubDate>Tue, 25 Jun 2019 15:20:30 -0700</pubDate>
-      
-      <guid>http://www.hpc.ucdavis.edu/categories/system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>information</title>
       <link>http://www.hpc.ucdavis.edu/categories/information/</link>
       <pubDate>Tue, 25 Jun 2019 15:20:30 -0700</pubDate>
       
       <guid>http://www.hpc.ucdavis.edu/categories/information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System</title>
+      <link>http://www.hpc.ucdavis.edu/categories/system/</link>
+      <pubDate>Tue, 25 Jun 2019 15:20:30 -0700</pubDate>
+      
+      <guid>http://www.hpc.ucdavis.edu/categories/system/</guid>
       <description></description>
     </item>
     

@@ -10,66 +10,56 @@
   <url>
     <loc>http://www.hpc.ucdavis.edu/categories/</loc>
     <lastmod>2019-06-25T15:20:30-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.hpc.ucdavis.edu/</loc>
     <lastmod>2019-06-25T15:20:30-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hpc.ucdavis.edu/posts/</loc>
-    <lastmod>2019-06-25T15:20:30-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hpc.ucdavis.edu/categories/system/</loc>
-    <lastmod>2019-06-25T15:20:30-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hpc.ucdavis.edu/tags/</loc>
-    <lastmod>2019-06-25T15:20:30-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.hpc.ucdavis.edu/tags/info/</loc>
     <lastmod>2019-06-25T15:20:30-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.hpc.ucdavis.edu/categories/information/</loc>
     <lastmod>2019-06-25T15:20:30-07:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.hpc.ucdavis.edu/posts/</loc>
+    <lastmod>2019-06-25T15:20:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hpc.ucdavis.edu/categories/system/</loc>
+    <lastmod>2019-06-25T15:20:30-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.hpc.ucdavis.edu/tags/system/</loc>
     <lastmod>2019-06-25T15:20:30-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hpc.ucdavis.edu/posts/farm-usage-stats/</loc>
-    <lastmod>2019-05-22T15:35:11-07:00</lastmod>
+    <loc>http://www.hpc.ucdavis.edu/tags/</loc>
+    <lastmod>2019-06-25T15:20:30-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.hpc.ucdavis.edu/categories/blog/</loc>
     <lastmod>2019-05-22T15:35:11-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.hpc.ucdavis.edu/tags/blog/</loc>
     <lastmod>2019-05-22T15:35:11-07:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.hpc.ucdavis.edu/posts/farm-usage-stats/</loc>
+    <lastmod>2019-05-22T15:35:11-07:00</lastmod>
   </url>
   
   <url>
