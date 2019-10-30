@@ -31,8 +31,6 @@ a smaller role.
 
 * [Bill Broadley](mailto:bill@cse.ucdavis.edu) - System Architect/Technical Lead
 
-* [Terri Knight](mailto:tlknight@cse.ucdavis.edu) - System Administrator/Programmer
-
 * [Tim Thatcher](mailto:tdt@cse.ucdavis.edu) - System Administrator/Support
 
 
