@@ -62,7 +62,7 @@ Current Rates
 -------------
 As of 2019, the rates for Farm III:
 
-* Parallel node: 64 CPUs, 256GB RAM (low2, med2, high2 partitions) - $8,800
+* Parallel node: 96 CPUs, 256GB RAM (low2, med2, high2 partitions) - $8,800
 * Bigmem node: 96 CPUs, 1TB RAM (bml, bmm, bmh partitions) - $22,7000
 * GPU node: dual-socket Xeon 4114, Nvidia Tesla V100 - $17,500
 * Storage: 10TB for 5 years (does not include backups) - $1,000
