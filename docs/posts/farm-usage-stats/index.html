@@ -70,7 +70,7 @@
 it is being used.</p>
 <p>(Before continuing, please note that these are experimental and estimated results, and as such
 may be subject to refinement, changes, or deletion at any given point.)</p>
-<p>First, let's take a look at the usage by the top 50 users.</p>
+<p>First, let&rsquo;s take a look at the usage by the top 50 users.</p>
 <table>
 <thead>
 <tr>
@@ -106,17 +106,17 @@ may be subject to refinement, changes, or deletion at any given point.)</p>
 </tbody>
 </table>
 <p>A CPU-year is one CPU at 100% duty for one year.</p>
-<p>Metrics from here on out get a little tricky. I'll be making a few assumptions and back-of-the-envelope shortcuts that won't
+<p>Metrics from here on out get a little tricky. I&rsquo;ll be making a few assumptions and back-of-the-envelope shortcuts that won&rsquo;t
 result in exact numbers, but should land us in a solid ballpark range.</p>
-<p>We'll say that Farm has about 6,000 CPUs after adding about 1,500 in April/May. That's 6,000 CPU-years of
-total processing theoretically available across the entire cluster anually. That's also assuming 100% availability of 100% of
+<p>We&rsquo;ll say that Farm has about 6,000 CPUs after adding about 1,500 in April/May. That&rsquo;s 6,000 CPU-years of
+total processing theoretically available across the entire cluster anually. That&rsquo;s also assuming 100% availability of 100% of
 assets. Which is, of course not always the case&ndash;given the fickleness of hardware and software, the vagaries of funding
-and the purchasing process, maintenance windows, and so on. However, let's back things up a little bit.</p>
-<p>We'll go to the beginning of April for to remove that sudden boost of 1,500 CPUs. That's a theoretical maximum of
+and the purchasing process, maintenance windows, and so on. However, let&rsquo;s back things up a little bit.</p>
+<p>We&rsquo;ll go to the beginning of April for to remove that sudden boost of 1,500 CPUs. That&rsquo;s a theoretical maximum of
 4,500 CPU-Yrs for the year.</p>
 <p>Based on that, the period from January 1-April 1 has a theoretical maximum of 1,120.5
 CPU-Yrs available.</p>
-<p>Let's look at total usage stats for all users:</p>
+<p>Let&rsquo;s look at total usage stats for all users:</p>
 <p>Slurm sreport cluster utilization start=01/01/19 end=04/01/19:</p>
 <table>
 <thead>
@@ -145,8 +145,8 @@ CPU-Yrs available.</p>
 </tr>
 </tbody>
 </table>
-<p>Slurm's sreport command is a little vague about what &ldquo;reported&rdquo; means, but the definition I'm going with
-is that it's the approximate total CPU-Years available for use in a time period, and &ldquo;allocated&rdquo;
+<p>Slurm&rsquo;s sreport command is a little vague about what &ldquo;reported&rdquo; means, but the definition I&rsquo;m going with
+is that it&rsquo;s the approximate total CPU-Years available for use in a time period, and &ldquo;allocated&rdquo;
 is what was actually used by jobs during that time period.</p>
 <p>(Our reported CPU-Yrs total is a little higher than our calculated theoretical maximum CPU-Yrs, but remember, that was just
 an estimate. The difference works out to about one Farm III node or two older Farm II nodes.)</p>
@@ -156,13 +156,13 @@ out of 436, or 96% of cluster use.</p>
 for 186 CPU-Yrs, or about 43% of cluster use.</p>
 <h2 id="conclusions">Conclusions</h2>
 <p>There are a couple takeaways that I read from all this. First, we can be pretty proud of our uptime for Farm.
-We're very close to our theoretical maximum cycles available, meaning we're keeping nodes up and ready to use
+We&rsquo;re very close to our theoretical maximum cycles available, meaning we&rsquo;re keeping nodes up and ready to use
 as much as possible, all while using minimal staff and low overhead. And while Farm is our largest cluster,
-it's not our only cluster &ndash; we're currently managing nine other clusters, as well.</p>
-<p>It also looks like Farm is running at somewhere around 1/3rd to 1/2 capacity on average, which isn't bad at all.
+it&rsquo;s not our only cluster &ndash; we&rsquo;re currently managing nine other clusters, as well.</p>
+<p>It also looks like Farm is running at somewhere around 1/3rd to 1/2 capacity on average, which isn&rsquo;t bad at all.
 Usage often happens in bursts, so while there are times when almost all of the CPU cycles are booked, for the most part
 we almost always have some extra cycles available whenever someone needs them&ndash;even without our &ldquo;one-minute guarantee.&rdquo;
-That's a good sign that the cluster is healthy, seeing regular use, and is at the right size to meet the needs of the current users.</p>
+That&rsquo;s a good sign that the cluster is healthy, seeing regular use, and is at the right size to meet the needs of the current users.</p>
 <p>-TDT@CSE</p>
 		</div>
 		
