@@ -62,11 +62,13 @@ Current Rates
 -------------
 As of 2019, the rates for Farm III:
 
-* Parallel node: 96 CPUs, 256GB RAM (low2, med2, high2 partitions) - $8,800
-* Bigmem node: 96 CPUs, 1TB RAM (bml, bmm, bmh partitions) - $22,7000
+* Parallel node: 48 cores/96 threads, 256GB RAM (low2, med2, high2 partitions) - $8,800
+* Bigmem node: 48 cores/96 threads, 1TB RAM (bml, bmm, bmh partitions) - $22,7000
 * GPU node: dual-socket Xeon 4114, Nvidia Tesla V100 - $17,500
+* Partial (1/8th) GPU node: 1 of 8 Titan RTX 24GB, 3 of 24 Xeon Cores, 96GB of 768GB RAM - $4,000
 * Storage: 10TB for 5 years (does not include backups) - $1,000
 * Equipment purchases not using above rates - $275/year per rack unit
+
 
 For more information about buying into Farm, contact [Adam Getchell](mailto:acgetchell@ucdavis.edu) or the [Helpdesk](mailto:help@cse.ucdavis.edu).
 
