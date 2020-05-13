@@ -60,7 +60,7 @@ Farm hardware and software are administrated by the [CSE Team](http://ceylon.cse
 
 Current Rates
 -------------
-As of 2019, the rates for Farm III:
+As of 2020, the rates for Farm III:
 
 * Parallel node: 48 cores/96 threads, 256GB RAM (low2, med2, high2 partitions) - $8,800
 * Bigmem node: 48 cores/96 threads, 1TB RAM (bml, bmm, bmh partitions) - $22,7000
