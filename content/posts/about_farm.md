@@ -32,10 +32,10 @@ Farm Hardware
 Farm is an evolving cluster that changes and grows to meet the current needs of researchers, and has undergone three phases, 
 with Farm III as the most recent evolution. 
 
-Farm III consists of 32 parallel nodes with 64 CPUs and 256GB RAM each, plus 17 "bigmem" nodes with 96 CPUs and
-1TB RAM each. All Farm III bigmem and newer parallel nodes and storage are on EDR/100Gbit interconnects. Older parallel nodes and storage are on FDR/55Gbit.
+Farm III consists of 32 parallel nodes with up to 64 CPUs and 256GB RAM each in low2/med2/high2, plus 17 "bigmem" nodes with up to 96 CPUs and
+1TB RAM each in the bml/bmm/bmh queue. All Farm III bigmem and newer parallel nodes and storage are on EDR/100Gbit interconnects. Older parallel nodes and storage are on FDR/55Gbit.
 
-Farm II consists of 95 parallel nodes with 24 CPUs and 64GB RAM each, plus 9 "bigmem" nodes with 64 CPUs and 512GB RAM each,
+Farm II consists of 95 parallel nodes with 24 CPUs and 64GB RAM each in low/med/high, plus 9 "bigmem" nodes with 64 CPUs and 512GB RAM each in the bigmeml/bigmemm/bigmemh queues,
 and 1 additional node with 96 CPUs and 1TB RAM. Farm II nodes are on QDR/32Gbit interconnects.
 
 Hardware from both Farm II and Farm III are still in service; Farm I has been decommissioned as of 2014.
@@ -45,7 +45,7 @@ Farm also has multiple fileservers with over 5.3PB of storage space total.
 Access to Farm 
 --------------
 All researchers in CA&ES are entitled to free access to 8 nodes with 24 CPUs and 64GB RAM each (up to a maximum
-of 192 CPUs and 512GB RAM) in the low, medium, and high priority batch queues, as well as 1TB storage space. 
+of 192 CPUs and 512GB RAM) in Farm II's low, medium, and high priority batch queues, as well as 1TB storage space. 
 
 Additional usage may be purchased by contributing to Farm III by buying nodes and/or storage space at set rates.
 
@@ -62,8 +62,8 @@ Current Rates
 -------------
 As of 2020, the rates for Farm III:
 
-* Parallel node: 48 cores/96 threads, 256GB RAM (low2, med2, high2 partitions) - $8,800
-* Bigmem node: 48 cores/96 threads, 1TB RAM (bml, bmm, bmh partitions) - $22,7000
+* Parallel node: 64 cores/128 threads, 256GB RAM (low2, med2, high2 partitions) - $8,800
+* Bigmem node: 64 cores/128 threads, 1TB RAM (bml, bmm, bmh partitions) - $22,7000
 * GPU node: dual-socket Xeon 4114, Nvidia Tesla V100 - $17,500
 * Partial (1/8th) GPU node: 1 of 8 Titan RTX 24GB, 3 of 24 Xeon Cores, 96GB of 768GB RAM - $4,000
 * Storage: 10TB for 5 years (does not include backups) - $1,000
