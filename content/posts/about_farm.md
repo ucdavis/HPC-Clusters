@@ -63,7 +63,7 @@ Current Rates
 -------------
 As of 2020, the rates for Farm III:
 
-Node and Storage Rates (each buy-in guarantees access for 5 years)
+Node and Storage Rates (each buy-in guarantees access for 5 years):
 
 * Parallel node: 64 cores/128 threads, 256GB RAM (low2, med2, high2 partitions) - $8,800
 * Bigmem node: 64 cores/128 threads, 1TB RAM (bml, bmm, bmh partitions) - $22,7000
@@ -71,8 +71,10 @@ Node and Storage Rates (each buy-in guarantees access for 5 years)
 * Storage: 10TB for 5 years (does not include backups) - $1,000
 
 
-Bring your own equipment
-* Equipment may be purchased directly by researched based on actual cost. Equipment quote available upon request.
+Bring your own equipment:
+
+ Equipment may be purchased directly by researched based on actual cost. Equipment quote available upon request.
+
 * Equipment purchases not using above rates - $275/year per rack unit for five years
 
 
